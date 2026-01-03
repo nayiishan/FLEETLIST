@@ -1,5 +1,6 @@
 {
   "name": "app",
+  "homepage": "https://FLEETLIST.github.io/FLEETLIST/"
   "private": true,
   "version": "0.0.0",
   "type": "module",
